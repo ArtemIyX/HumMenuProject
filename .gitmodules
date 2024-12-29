@@ -1,0 +1,3 @@
+[submodule "Plugins/HumMenuPlugin"]
+	path = Plugins/HumMenuPlugin
+	url = https://github.com/ArtemIyX/HumMenuPlugin.git
