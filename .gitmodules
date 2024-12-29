@@ -7,3 +7,6 @@
 [submodule "Plugins/EasySettingsUnreal"]
 	path = Plugins/EasySettingsUnreal
 	url = https://github.com/ArtemIyX/EasySettingsUnreal.git
+[submodule "Plugins/BlueprintSubsystemsUnreal"]
+	path = Plugins/BlueprintSubsystemsUnreal
+	url = https://github.com/ArtemIyX/BlueprintSubsystemsUnreal.git
