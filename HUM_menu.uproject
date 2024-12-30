@@ -25,6 +25,10 @@
 		{
             "Name": "EasySettings",
             "Enabled": true
+        },
+		{
+            "Name": "BlueprintSubsystems",
+            "Enabled": true
         }
 	]
 }

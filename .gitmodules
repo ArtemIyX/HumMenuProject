@@ -10,3 +10,6 @@
 [submodule "Plugins/BlueprintSubsystemsUnreal"]
 	path = Plugins/BlueprintSubsystemsUnreal
 	url = https://github.com/ArtemIyX/BlueprintSubsystemsUnreal.git
+[submodule "Plugins/AdvancedAssetUnreal"]
+	path = Plugins/AdvancedAssetUnreal
+	url = https://github.com/ArtemIyX/AdvancedAssetUnreal.git
