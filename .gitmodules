@@ -1,6 +1,7 @@
 [submodule "Plugins/HumMenuPlugin"]
 	path = Plugins/HumMenuPlugin
 	url = https://github.com/ArtemIyX/HumMenuPlugin.git
+	branch = dev
 [submodule "Plugins/DataSerializerUnreal"]
 	path = Plugins/DataSerializerUnreal
 	url = https://github.com/ArtemIyX/DataSerializerUnreal.git
