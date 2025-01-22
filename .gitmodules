@@ -1,3 +1,15 @@
 [submodule "Plugins/HumMenuPlugin"]
 	path = Plugins/HumMenuPlugin
 	url = https://github.com/ArtemIyX/HumMenuPlugin.git
+[submodule "Plugins/DataSerializerUnreal"]
+	path = Plugins/DataSerializerUnreal
+	url = https://github.com/ArtemIyX/DataSerializerUnreal.git
+[submodule "Plugins/EasySettingsUnreal"]
+	path = Plugins/EasySettingsUnreal
+	url = https://github.com/ArtemIyX/EasySettingsUnreal.git
+[submodule "Plugins/BlueprintSubsystemsUnreal"]
+	path = Plugins/BlueprintSubsystemsUnreal
+	url = https://github.com/ArtemIyX/BlueprintSubsystemsUnreal.git
+[submodule "Plugins/AdvancedAssetUnreal"]
+	path = Plugins/AdvancedAssetUnreal
+	url = https://github.com/ArtemIyX/AdvancedAssetUnreal.git

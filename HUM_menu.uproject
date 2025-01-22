@@ -17,6 +17,22 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		}
+		},
+		{
+            "Name": "DataSerializer",
+            "Enabled": true
+        },
+		{
+            "Name": "EasySettings",
+            "Enabled": true
+        },
+		{
+            "Name": "BlueprintSubsystems",
+            "Enabled": true
+        },
+		{
+            "Name": "AdvancedAsset",
+            "Enabled": true
+        }
 	]
 }
