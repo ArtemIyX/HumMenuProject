@@ -19,20 +19,24 @@
 			]
 		},
 		{
-            "Name": "DataSerializer",
-            "Enabled": true
-        },
+			"Name": "DataSerializer",
+			"Enabled": true
+		},
 		{
-            "Name": "EasySettings",
-            "Enabled": true
-        },
+			"Name": "EasySettings",
+			"Enabled": true
+		},
 		{
-            "Name": "BlueprintSubsystems",
-            "Enabled": true
-        },
+			"Name": "BlueprintSubsystems",
+			"Enabled": true
+		},
 		{
-            "Name": "AdvancedAsset",
-            "Enabled": true
-        }
+			"Name": "AdvancedAsset",
+			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
+		}
 	]
 }
